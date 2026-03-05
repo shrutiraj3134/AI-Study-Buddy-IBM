@@ -1,4 +1,5 @@
 AI-Powered Study Buddy
+
 ​1. Problem Statement
 ​Students often struggle to understand complex concepts while studying.  
 ​Searching online often gives long or irrelevant results, making it difficult to find quick answers.  
